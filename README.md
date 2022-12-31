@@ -1,0 +1,1 @@
+This project is intended to be used to feed Logstash with recent tweets based on a search keyword.
